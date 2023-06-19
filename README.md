@@ -3,7 +3,6 @@
 <img align="center" alt="Coding" width="500" src="Coding.gif">
 <img align="center" alt="Coding" width="500" src="Data Analytics.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-kumar-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-kumar-dubey" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anurag-kumar-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-dubey" height="30" width="40" /></a>
