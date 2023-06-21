@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Anurag-Kumar-Dubey/DataHub/blob/08a32e896d9938e08215024dbd79183f082108c3/Banner_13.png)
+![MasterHead](https://github.com/Anurag-Kumar-Dubey/DataHub/blob/7e30b7d39c4773d6402e19b191942ab4952b8bcb/Banner_13.png)
 ![MasterHead](https://github.com/Anurag-Kumar-Dubey/Datahub/blob/adba2ae480ee6c63e51789be810102411afcef06/Banner-4.jpg)
 <h1 align="center">Hi 👋, I'm Anurag </h1>
 <h3 align="center"> Data Enthusiast | Python Developer | SQL | Machine Learning | Data visualization </h3>
