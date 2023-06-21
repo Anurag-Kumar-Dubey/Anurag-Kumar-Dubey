@@ -1,8 +1,8 @@
+![MasterHead](https://github.com/Anurag-Kumar-Dubey/DataHub/blob/08a32e896d9938e08215024dbd79183f082108c3/Banner_13.png)
 ![MasterHead](https://github.com/Anurag-Kumar-Dubey/Datahub/blob/adba2ae480ee6c63e51789be810102411afcef06/Banner-4.jpg)
 <h1 align="center">Hi 👋, I'm Anurag </h1>
 <h3 align="center"> Data Enthusiast | Python Developer | SQL | Machine Learning | Data visualization </h3>
-<img align="right" alt="Coding" width="200" src="https://github.com/Anurag-Kumar-Dubey/Data-Hub/blob/33010a3d4d335c04ccecb19b0ef96483e140b52c/Coding.gif">
-<img align="right" alt="Coding" width="200" src="https://github.com/Anurag-Kumar-Dubey/Data-Hub/blob/33010a3d4d335c04ccecb19b0ef96483e140b52c/Data%20Analytics.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anurag-Kumar-Dubey/Data-Hub/blob/33010a3d4d335c04ccecb19b0ef96483e140b52c/Data%20Analytics.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-kumar-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-kumar-dubey" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
