@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/Anurag-Kumar-Dubey/Anurag-Kumar-Dubey/blob/main/Banner_2.jpg)
 <h1 align="center">Hi 👋, I'm Anurag </h1>
 <h3 align="center"> Data Enthusiast | Python Developer | SQL | Machine Learning | Data visualization </h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Anurag-Kumar-Dubey/DataHub/blob/main/Gif%20%26%20Images/Data%20Analytics.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anurag-Kumar-Dubey/Anurag-Kumar-Dubey/blob/main/Data%20Analytics.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-kumar-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-kumar-dubey" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
