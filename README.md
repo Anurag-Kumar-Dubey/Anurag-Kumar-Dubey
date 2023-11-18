@@ -25,7 +25,11 @@ I believe in the power of continuous learning and staying updated with the lates
 
 ### 📫 Let's Connect
 I'm always open to collaboration, learning from others, and sharing my knowledge. Feel free to reach out if you want to discuss data, analytics, or anything related. Let's connect and explore the fascinating world of data together!
-
+<p align="left">
+<h3> LinkedIn Profile:
+<a href="https://linkedin.com/in/anurag-kumar-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-kumar-dubey" height="15" width="20" /></a>
+</p>
+</h3>
 
 <p align="center"> <img alt="Coding" width="600" src="https://github.com/Anurag-Kumar-Dubey/Anurag-Kumar-Dubey/blob/main/Data%20Analytics.gif"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-kumar-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-kumar-dubey" /> </p>
